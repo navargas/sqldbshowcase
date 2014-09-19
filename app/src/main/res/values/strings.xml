@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLDBshowcase</string>
+    <string name="title_section1">ToDo</string>
+    <string name="title_section2">Server Info</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Refresh</string>
+    <string name="action_target">Change App</string>
+    <string name="new_item">New Task</string>
+    <string name="menu_name">SQLDB</string>
+    <string name="info_placeholder">Loading...</string>
+
+    <string-array name="listarray">
+        <item>Shuttle Badminton</item>
+        <item>Tennis</item>
+        <item>FootBall</item>
+        <item>Basket Ball</item>
+        <item>Table Tennis</item>
+        <item>Chess</item>
+        <item>Hockey</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
